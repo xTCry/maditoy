@@ -1,0 +1,12 @@
+{
+  "name": "maditoy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "xTCry [Vladislav Kh] (https://github.com/xTCry/)",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "vk-io": "^4.0.0-rc.30",
+    "youtube-dl": "^3.0.2"
+  }
+}
