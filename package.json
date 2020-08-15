@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "xTCry [Vladislav Kh] (https://github.com/xTCry/)",
   "license": "MIT",
+  "scripts": {
+      "run": "node index.js"
+  },
   "dependencies": {
     "dotenv": "^8.2.0",
     "vk-io": "^4.0.0-rc.30",
